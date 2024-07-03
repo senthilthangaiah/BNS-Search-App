@@ -42,3 +42,5 @@ This app serves as a powerful tool for efficiently searching and retrieving rele
 - `app.py`: Main Streamlit application script.
 - `bns.csv`: CSV file containing the BNS rules and descriptions.
 - `requirements.txt`: List of required Python packages.
+## Example
+![Sample 1](images/bns1.png)

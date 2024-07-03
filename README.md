@@ -22,13 +22,13 @@ This is a Streamlit app for searching the Bharatiya Nyaya Sanhita (BNS) using a 
 ## Use Case Scenarios
 
 ### Legal Research: 
-    A lawyer or law student can use this app to quickly find relevant sections and descriptions in the Bharatiya Nyaya Sanhita based on specific legal terms or scenarios.
+A lawyer or law student can use this app to quickly find relevant sections and descriptions in the Bharatiya Nyaya Sanhita based on specific legal terms or scenarios.
 
 ### Policy Making: 
-    Policymakers can search for specific rules or descriptions to understand and frame new policies based on the existing legal framework.
+Policymakers can search for specific rules or descriptions to understand and frame new policies based on the existing legal framework.
 
 ### Education: 
-    Educators and students can use the app to study and reference specific sections of the BNS during lessons or assignments.
+Educators and students can use the app to study and reference specific sections of the BNS during lessons or assignments.
 
 This app serves as a powerful tool for efficiently searching and retrieving relevant legal information from the Bharatiya Nyaya Sanhita using advanced semantic search techniques.
 ## Usage

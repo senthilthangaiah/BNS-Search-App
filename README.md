@@ -43,6 +43,7 @@ This app serves as a powerful tool for efficiently searching and retrieving rele
 - `bns.csv`: CSV file containing the BNS rules and descriptions.
 - `requirements.txt`: List of required Python packages.
 ## Example
-[Sample 1](https://raw.githubusercontent.com/senthilthangaiah/BNS-Search-App/master/IMAGES/bns1.png)
+![screenshot](https://raw.githubusercontent.com/senthilthangaiah/BNS-Search-App/master/IMAGES/bns1.png)
 
-[Sample 2](https://raw.githubusercontent.com/senthilthangaiah/BNS-Search-App/master/IMAGES/bns2.png)
+![screenshot](https://raw.githubusercontent.com/senthilthangaiah/BNS-Search-App/master/IMAGES/bns2.png)
+
